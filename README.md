@@ -1,1 +1,1 @@
-# odin-recipes
+This is a practical exercise to showcase my knowledge on HTML by building a basic recipe website which consists of main index page and links to few recipes.
